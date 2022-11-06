@@ -8,8 +8,8 @@
 - Mobile apps
 
 # Tools
-![python](files/python.png)
-![Selene](files/selene.png)
+![python](files/pythonn.png)
+![Selene](files/selenne.png)
 ![Selenoid](files/Selenoid.png)
 ![Allure_Report](files/Allure_Report.png)
 ![Jenkins](files/Jenkins.png)
