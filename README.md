@@ -9,7 +9,7 @@
 
 # Tools
 ![python](files/python.png)
-![Selene](files/Selene.png)
+![Selene](files/selene.png)
 ![Selenoid](files/Selenoid.png)
 ![Allure_Report](files/Allure_Report.png)
 ![Jenkins](files/Jenkins.png)
@@ -18,7 +18,6 @@
 - Python
 - Selene
 - Selenoid
-- Appium
 - Allure Report
 - Jenkins
 
